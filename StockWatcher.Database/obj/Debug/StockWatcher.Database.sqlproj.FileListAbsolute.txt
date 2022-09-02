@@ -1,0 +1,10 @@
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Database\bin\Debug\StockWatcher.Database.dacpac
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Database\bin\Debug\StockWatcher.Database.dll
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Database\bin\Debug\StockWatcher.Database.pdb
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Database\obj\Debug\StockWatcher.Database.sqlproj.AssemblyReference.cache
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Database\obj\Debug\Model.xml
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Database\obj\Debug\refactor.xml
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Database\obj\Debug\postdeploy.sql
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Database\obj\Debug\predeploy.sql
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Database\obj\Debug\StockWatcher.Database.dll
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Database\obj\Debug\StockWatcher.Database.pdb

@@ -1,0 +1,6 @@
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Common\bin\Debug\StockWatcher.Common.dll
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Common\bin\Debug\StockWatcher.Common.pdb
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Common\obj\Debug\StockWatcher.Common.csproj.AssemblyReference.cache
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Common\obj\Debug\StockWatcher.Common.csproj.CoreCompileInputs.cache
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Common\obj\Debug\StockWatcher.Common.dll
+D:\Kushal\SentryTest\StockWatcher\StockWatcher.Common\obj\Debug\StockWatcher.Common.pdb

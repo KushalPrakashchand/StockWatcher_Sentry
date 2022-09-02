@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = StockWatcher.ViewModels.Tests
+build_property.ProjectDir = D:\Kushal\SentryTest\StockWatcher\StockWatcher.ViewModels.Tests\
